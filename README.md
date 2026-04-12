@@ -1,90 +1,86 @@
----
-title: Recipe Index
----
-
 # Recipe Index
 
 ## Fish
 
 ### Ilish
-- [[ilish-er-tel-jhaal]] — Ilish er Tel Jhaal
-- [[sorshe-ilish]] — Sorshe Ilish (Kakimar)
-- [[pata-pora-ilish]] — Pata Pora Ilish (Paturi)
-- [[ilisher-matha-kochu-saag]] — Ilisher Matha diye Kochu Saag
+- [Ilish er Tel Jhaal](ilish-er-tel-jhaal.md)
+- [Sorshe Ilish (Kakimar)](sorshe-ilish.md)
+- [Pata Pora Ilish (Paturi)](pata-pora-ilish.md)
+- [Ilisher Matha diye Kochu Saag](ilisher-matha-kochu-saag.md)
 
 ### Other Fish
-- [[macher-jhol]] — Macher Jhol (নদীর মাছ)
-- [[macher-tortora]] — Macher Tortora (কাতলা/রুই/পোনা)
-- [[macher-tetul-tok]] — Macher Tetul Tok
-- [[pabdar-tel-jhaal]] — Pabdar Tel Jhaal
-- [[ronar-barir-macher-jhaal]] — Ronar Barir Macher Jhaal
-- [[tel-koi]] — Tel Koi
-- [[katla-macher-patapor-bhaja]] — Katla Macher Patapor Bhaja
+- [Macher Jhol (নদীর মাছ)](macher-jhol.md)
+- [Macher Tortora (কাতলা/রুই/পোনা)](macher-tortora.md)
+- [Macher Tetul Tok](macher-tetul-tok.md)
+- [Pabdar Tel Jhaal](pabdar-tel-jhaal.md)
+- [Ronar Barir Macher Jhaal](ronar-barir-macher-jhaal.md)
+- [Tel Koi](tel-koi.md)
+- [Katla Macher Patapor Bhaja](katla-macher-patapor-bhaja.md)
 
 ## Shrimp (চিংড়ি)
 
 ### Bati Charchari (5 variants)
-- [[chingrir-bati-charchari-index]] — Index of all 5 variants
-  - [[chingrir-bati-charchari-1]] — Kakur, Talli Pata
-  - [[chingrir-bati-charchari-2]] — Tomato Peyaj
-  - [[chingrir-bati-charchari-3]] — Kumro Pata, Sorshe Posto
-  - [[chingrir-bati-charchari-4]] — Posto Sorshe
-  - [[chingrir-bati-charchari-5]] — Minimal (Sorshe Posto Sukno Lonka Rosun)
+- [Index of all 5 variants](chingrir-bati-charchari-index.md)
+  - [1 — Kakur, Talli Pata](chingrir-bati-charchari-1.md)
+  - [2 — Tomato Peyaj](chingrir-bati-charchari-2.md)
+  - [3 — Kumro Pata, Sorshe Posto](chingrir-bati-charchari-3.md)
+  - [4 — Posto Sorshe](chingrir-bati-charchari-4.md)
+  - [5 — Minimal (Sorshe Posto Sukno Lonka Rosun)](chingrir-bati-charchari-5.md)
 
 ### Ol Chingri (5 variants)
-- [[ol-chingri-index]] — Index of all 5 variants
-  - [[ol-chingri-1]] — Standard
-  - [[ol-chingri-2]] — Ghee Gorom Mosla
-  - [[ol-chingri-3]] — Sorshe Narkel, Alu Bail
-  - [[ol-chingri-4]] — Chingri Bata, No Peyaj
-  - [[ol-chingri-5]] — Bharta Style
+- [Index of all 5 variants](ol-chingri-index.md)
+  - [1 — Standard](ol-chingri-1.md)
+  - [2 — Ghee Gorom Mosla](ol-chingri-2.md)
+  - [3 — Sorshe Narkel, Alu Bail](ol-chingri-3.md)
+  - [4 — Chingri Bata, No Peyaj](ol-chingri-4.md)
+  - [5 — Bharta Style](ol-chingri-5.md)
 
 ### Other Shrimp
-- [[chingri-kosha]] — Chingri Kosha
-- [[pui-saag-chingri-raita]] — Pui Saag Chingri Raita
+- [Chingri Kosha](chingri-kosha.md)
+- [Pui Saag Chingri Raita](pui-saag-chingri-raita.md)
 
 ## Chicken & Meat
-- [[chicken-kosha]] — Chicken Kosha
-- [[15-minute-mangsher-stew]] — 15 Minute Mangsher Stew
+- [Chicken Kosha](chicken-kosha.md)
+- [15 Minute Mangsher Stew](15-minute-mangsher-stew.md)
 
 ## Vegetarian
 
 ### Begun (বেগুন)
-- [[begun-bhaja-index]] — Index of all begun bhaja variants
-  - [[begun-bhaja-1]] — Plain (হলুদ চিনি)
-  - [[begun-bhaja-2]] — Suji Crust
-- [[begun-rosun]] — Begun Rosun (Quick)
-- [[sonu-begun-pora]] — Sonur Begun Pora (Bharta)
-- [[tel-begun]] — Tel Begun (Rich Gravy)
-- [[orisha-doi-begun]] — Orisha Doi Begun
+- [Index of all begun bhaja variants](begun-bhaja-index.md)
+  - [Begun Bhaja 1 — Plain (হলুদ চিনি)](begun-bhaja-1.md)
+  - [Begun Bhaja 2 — Suji Crust](begun-bhaja-2.md)
+- [Begun Rosun (Quick)](begun-rosun.md)
+- [Sonur Begun Pora (Bharta)](sonu-begun-pora.md)
+- [Tel Begun (Rich Gravy)](tel-begun.md)
+- [Orisha Doi Begun](orisha-doi-begun.md)
 
 ### Saag & Greens
-- [[lal-saag-niramish]] — Lal Saag Niramish
-- [[pui-saag-raita]] — Pui Saag Raita (Niramish)
-- [[kakur-uchhe-lal-saag]] — Kakur Uchhe diye Lal Saag
-- [[susni-saag-bhaja]] — Susni Saag er Bhaja *(stub)*
+- [Lal Saag Niramish](lal-saag-niramish.md)
+- [Pui Saag Raita (Niramish)](pui-saag-raita.md)
+- [Kakur Uchhe diye Lal Saag](kakur-uchhe-lal-saag.md)
+- [Susni Saag er Bhaja](susni-saag-bhaja.md) *(stub)*
 
 ### Echor (এঁচোড়)
-- [[echorer-dalna-kosha]] — Echorer Dalna / Kosha (Rich)
-- [[echor-alur-torkari]] — Echor Alur Torkari (Halka)
+- [Echorer Dalna / Kosha (Rich)](echorer-dalna-kosha.md)
+- [Echor Alur Torkari (Halka)](echor-alur-torkari.md)
 
 ### Other Vegetarian
-- [[ilisher-matha-kochu-saag]] — Kochu Saag (with Ilish matha)
+- [Kochu Saag with Ilish Matha](ilisher-matha-kochu-saag.md)
 
 ## Rice & Pasta
-- [[polao]] — Polao (Kanika Bhat inspired)
-- [[rater-pasta]] — Rater Pasta
+- [Polao (Kanika Bhat inspired)](polao.md)
+- [Rater Pasta](rater-pasta.md)
 
 ## Sweets & Desserts
-- [[mohan-thaal]] — Mohan Thaal
-- [[jorda-simui]] — Jorda Simui
-- [[besan-da-sheera]] — Besan da Sheera
-- [[gatta]] — Gatta (Ronar Mess er Moton)
-- [[idli-appam]] — Idli Appam with Coconut Milk *(stub)*
+- [Mohan Thaal](mohan-thaal.md)
+- [Jorda Simui](jorda-simui.md)
+- [Besan da Sheera](besan-da-sheera.md)
+- [Gatta (Ronar Mess er Moton)](gatta.md)
+- [Idli Appam with Coconut Milk](idli-appam.md) *(stub)*
 
 ## Drinks
-- [[aampora-sorbot]] — Aampora Sorbot
-- [[sorbot-instant-kanji]] — Sorbot — Instant Kanji
+- [Aampora Sorbot](aampora-sorbot.md)
+- [Sorbot — Instant Kanji](sorbot-instant-kanji.md)
 
 ---
 
@@ -92,7 +88,7 @@ title: Recipe Index
 
 | Person | Recipes |
 |--------|---------|
-| kakima | [[sorshe-ilish]] |
-| kaku | [[chingrir-bati-charchari-1]], [[kakur-uchhe-lal-saag]] |
-| sonu | [[sonu-begun-pora]] |
-| rona | [[ronar-barir-macher-jhaal]], [[gatta]] |
+| kakima | [Sorshe Ilish](sorshe-ilish.md) |
+| kaku | [Chingrir Bati Charchari 1](chingrir-bati-charchari-1.md), [Kakur Uchhe diye Lal Saag](kakur-uchhe-lal-saag.md) |
+| sonu | [Sonur Begun Pora](sonu-begun-pora.md) |
+| rona | [Ronar Barir Macher Jhaal](ronar-barir-macher-jhaal.md), [Gatta](gatta.md) |
