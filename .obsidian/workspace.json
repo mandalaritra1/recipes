@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "2fda7272419681e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c1835fdd0cb6faa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aca0bdfcc2be8d4a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d798d968cfd43029",
+    "type": "split",
+    "children": [
+      {
+        "id": "240df6a3b96c271d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1905f0848dc4267",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e2d8b8c6aecd14d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "08a90fda5dfc4382",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65c0f2f72d502a2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e991064f14c865e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8bc85eb92e5136e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4509ddd43c2a6c95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "90ddc0e68a723792",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7742a56a3ce4d117",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "57ea014e61b82d22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "aca0bdfcc2be8d4a",
+  "lastOpenFiles": [
+    "README.md",
+    "index.md",
+    "index.md.tmp.44293.1776016483788",
+    "begun-bhaja-1.md",
+    "begun-bhaja-index.md",
+    "begun-bhaja-index.md.tmp.44293.1776016256117",
+    "begun-bhaja-2.md",
+    "begun-bhaja-2.md.tmp.44293.1776016248311",
+    "begun-bhaja-1.md.tmp.44293.1776016241260",
+    "chingrir-bati-charchari-index.md",
+    "chingrir-bati-charchari-index.md.tmp.44293.1776016228538",
+    "chingrir-bati-charchari-5.md",
+    "chingrir-bati-charchari-5.md.tmp.44293.1776016218704",
+    "chingrir-bati-charchari-4.md",
+    "chingrir-bati-charchari-4.md.tmp.44293.1776016212517",
+    "chingrir-bati-charchari-3.md",
+    "chingrir-bati-charchari-3.md.tmp.44293.1776016204570",
+    "chingrir-bati-charchari-2.md",
+    "chingrir-bati-charchari-2.md.tmp.44293.1776016193018",
+    "ol-chingri-1.md",
+    "chingrir-bati-charchari-1.md",
+    "ol-chingri-index.md",
+    "ol-chingri-index.md.tmp.44293.1776016168100",
+    "ol-chingri-5.md",
+    "ol-chingri-4.md",
+    "ol-chingri-3.md",
+    "ol-chingri-2.md",
+    "echor-alur-torkari.md",
+    "echorer-dalna-kosha.md",
+    "jorda-simui.md",
+    "tel-koi.md",
+    "kakur-uchhe-lal-saag.md",
+    "katla-macher-patapor-bhaja.md",
+    "susni-saag-bhaja.md",
+    "idli-appam.md",
+    "gatta.md"
+  ]
+}
