@@ -1,0 +1,97 @@
+[project]
+site_name = "Recipes"
+site_description = "A kitchen notebook of Bengali home recipes, variants, and inherited cooking notes"
+site_url = "https://mandalaritra1.github.io/recipes/"
+docs_dir = "docs"
+site_dir = "site-zensical"
+extra_css = ["stylesheets/extra.css"]
+nav = [
+    { "Index" = "index.md" },
+    { "Fish" = [
+        { "Ilish er Tel Jhaal" = "ilish-er-tel-jhaal.md" },
+        { "Sorshe Ilish" = "sorshe-ilish.md" },
+        { "Pata Pora Ilish" = "pata-pora-ilish.md" },
+        { "Ilisher Matha Kochu Saag" = "ilisher-matha-kochu-saag.md" },
+        { "Macher Jhol" = "macher-jhol.md" },
+        { "Macher Tortora" = "macher-tortora.md" },
+        { "Macher Tetul Tok" = "macher-tetul-tok.md" },
+        { "Pabdar Tel Jhaal" = "pabdar-tel-jhaal.md" },
+        { "Ronar Barir Macher Jhaal" = "ronar-barir-macher-jhaal.md" },
+        { "Tel Koi" = "tel-koi.md" },
+        { "Katla Macher Patapor Bhaja" = "katla-macher-patapor-bhaja.md" },
+    ] },
+    { "Shrimp" = [
+        { "Bati Charchari Index" = "chingrir-bati-charchari-index.md" },
+        { "Bati Charchari 1" = "chingrir-bati-charchari-1.md" },
+        { "Bati Charchari 2" = "chingrir-bati-charchari-2.md" },
+        { "Bati Charchari 3" = "chingrir-bati-charchari-3.md" },
+        { "Bati Charchari 4" = "chingrir-bati-charchari-4.md" },
+        { "Bati Charchari 5" = "chingrir-bati-charchari-5.md" },
+        { "Ol Chingri Index" = "ol-chingri-index.md" },
+        { "Ol Chingri 1" = "ol-chingri-1.md" },
+        { "Ol Chingri 2" = "ol-chingri-2.md" },
+        { "Ol Chingri 3" = "ol-chingri-3.md" },
+        { "Ol Chingri 4" = "ol-chingri-4.md" },
+        { "Ol Chingri 5" = "ol-chingri-5.md" },
+        { "Chingri Kosha" = "chingri-kosha.md" },
+        { "Pui Saag Chingri Raita" = "pui-saag-chingri-raita.md" },
+    ] },
+    { "Chicken & Meat" = [
+        { "Chicken Kosha" = "chicken-kosha.md" },
+        { "15 Minute Mangsher Stew" = "15-minute-mangsher-stew.md" },
+    ] },
+    { "Vegetarian" = [
+        { "Begun Bhaja Index" = "begun-bhaja-index.md" },
+        { "Begun Bhaja 1" = "begun-bhaja-1.md" },
+        { "Begun Bhaja 2" = "begun-bhaja-2.md" },
+        { "Begun Rosun" = "begun-rosun.md" },
+        { "Sonur Begun Pora" = "sonu-begun-pora.md" },
+        { "Tel Begun" = "tel-begun.md" },
+        { "Orisha Doi Begun" = "orisha-doi-begun.md" },
+        { "Lal Saag Niramish" = "lal-saag-niramish.md" },
+        { "Pui Saag Raita" = "pui-saag-raita.md" },
+        { "Kakur Uchhe Lal Saag" = "kakur-uchhe-lal-saag.md" },
+        { "Susni Saag Bhaja" = "susni-saag-bhaja.md" },
+        { "Echorer Dalna Kosha" = "echorer-dalna-kosha.md" },
+        { "Echor Alur Torkari" = "echor-alur-torkari.md" },
+    ] },
+    { "Rice & Pasta" = [
+        { "Polao" = "polao.md" },
+        { "Rater Pasta" = "rater-pasta.md" },
+    ] },
+    { "Sweets & Drinks" = [
+        { "Mohan Thaal" = "mohan-thaal.md" },
+        { "Jorda Simui" = "jorda-simui.md" },
+        { "Besan da Sheera" = "besan-da-sheera.md" },
+        { "Gatta" = "gatta.md" },
+        { "Idli Appam" = "idli-appam.md" },
+        { "Aampora Sorbot" = "aampora-sorbot.md" },
+        { "Instant Kanji" = "sorbot-instant-kanji.md" },
+    ] },
+]
+
+[project.theme]
+variant = "modern"
+favicon = "assets/images/favicon.svg"
+features = [
+    "navigation.tabs",
+    "navigation.sections",
+    "content.code.copy"
+]
+
+[[project.theme.palette]]
+scheme = "default"
+primary = "teal"
+accent = "cyan"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+scheme = "slate"
+primary = "teal"
+accent = "cyan"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
+
+[project.theme.icon]
+logo = "lucide/utensils"

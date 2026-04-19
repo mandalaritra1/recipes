@@ -1,0 +1,48 @@
+/* Match the wider, calmer reading layout used in the documentation projects. */
+.md-grid {
+  max-width: 80rem;
+}
+
+:root {
+  --md-primary-fg-color: #00897b;
+  --md-primary-fg-color--light: #4db6ac;
+  --md-primary-fg-color--dark: #00695c;
+  --md-accent-fg-color: #00acc1;
+  --recipe-header-bg: rgba(0, 137, 123, 0.82);
+}
+
+.md-header,
+.md-tabs {
+  background-color: var(--recipe-header-bg);
+  backdrop-filter: blur(12px) saturate(1.15);
+  -webkit-backdrop-filter: blur(12px) saturate(1.15);
+}
+
+[data-md-color-scheme="slate"] {
+  --recipe-header-bg: rgba(0, 105, 92, 0.84);
+}
+
+.md-typeset h1 {
+  font-weight: 700;
+}
+
+.md-typeset h2 {
+  margin-top: 1.8em;
+}
+
+.md-typeset table:not([class]) {
+  font-size: 0.84rem;
+}
+
+.md-typeset img {
+  border-radius: 8px;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 8px;
+}
+
+.md-typeset ul li {
+  margin-bottom: 0.22rem;
+}
