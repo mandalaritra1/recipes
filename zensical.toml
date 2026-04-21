@@ -54,6 +54,7 @@ nav = [
         { "Susni Saag Bhaja" = "susni-saag-bhaja.md" },
         { "Echorer Dalna Kosha" = "echorer-dalna-kosha.md" },
         { "Echor Alur Torkari" = "echor-alur-torkari.md" },
+        { "Alu Porota" = "alu-porota.md" },
     ] },
     { "Rice & Pasta" = [
         { "Polao" = "polao.md" },

@@ -64,6 +64,9 @@
 - [Echorer Dalna / Kosha (Rich)](echorer-dalna-kosha.md)
 - [Echor Alur Torkari (Halka)](echor-alur-torkari.md)
 
+### Roti / Porota
+- [Alu Porota](alu-porota.md)
+
 ### Other Vegetarian
 - [Kochu Saag with Ilish Matha](ilisher-matha-kochu-saag.md)
 
@@ -91,4 +94,4 @@
 | kakima | [Sorshe Ilish](sorshe-ilish.md) |
 | kaku | [Chingrir Bati Charchari 1](chingrir-bati-charchari-1.md), [Kakur Uchhe diye Lal Saag](kakur-uchhe-lal-saag.md) |
 | sonu | [Sonur Begun Pora](sonu-begun-pora.md) |
-| rona | [Ronar Barir Macher Jhaal](ronar-barir-macher-jhaal.md), [Gatta](gatta.md) |
+| rona | [Ronar Barir Macher Jhaal](ronar-barir-macher-jhaal.md), [Gatta](gatta.md), [Alu Porota](alu-porota.md) |
