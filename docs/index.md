@@ -1,5 +1,9 @@
 # Recipe Index
 
+## Recently Added
+
+- [Lachha / Feni](lachha-feni.md)
+
 ## Fish
 
 ### Ilish
