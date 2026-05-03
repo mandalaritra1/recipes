@@ -2,6 +2,7 @@
 
 ## Recently Added
 
+- [Tel Chingri (Lost and Rare)](tel-chingri-lost-and-rare.md)
 - [Lachha / Feni](lachha-feni.md)
 
 ## Fish
@@ -40,6 +41,7 @@
   - [5 — Bharta Style](ol-chingri-5.md)
 
 ### Other Shrimp
+- [Tel Chingri (Lost and Rare)](tel-chingri-lost-and-rare.md)
 - [Chingri Kosha](chingri-kosha.md)
 - [Pui Saag Chingri Raita](pui-saag-chingri-raita.md)
 
